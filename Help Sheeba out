@@ -1,0 +1,4 @@
+Puzzle
+Create an array of int type of size 100
+ x=bitwise xor of the elements of array
+ return x;
